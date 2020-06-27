@@ -1,1 +1,2 @@
 # Auto-Password-Generator
+This program allows a user to generate a random password off of a web interface. It shows the user the types of selectable characters, and allows them to select a length for the password. If the length is outside an acceptable range, or no charcters are selected, it prompts the user to change the criteria. An array generates the password using the selected character types. If the user wants, the can generate multiple passwords until the get on they like.
